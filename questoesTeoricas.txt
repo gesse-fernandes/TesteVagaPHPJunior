@@ -1,0 +1,16 @@
+Questões Teóricas
+Qual a diferença entre FLOAT e INT?
+Resposta: 
+FLOAT e INT são tipos de dados numéricos diferentes. A principal diferença entre eles é que FLOAT representa números de ponto flutuante com uma precisão de várias casas decimais, enquanto INT representa números inteiros, sem casas decimais. Em outras palavras, FLOAT é usado para representar números com frações, enquanto INT é usado para representar números inteiros.
+Qual a diferença entre a função floor() e ceil()?
+Para validar um dado enviado por formulário, preciso de alguma biblioteca externa? Por que?
+Qual a lógica de dividir a conta de restaurante para as pessoas da mesa?
+Projeto prático
+Crie um sistema onde é possível especificar quanto foi o TOTAL da conta do restaurante, bem como quantas pessoas estão na mesa, para que o sistema possa dividir a conta pelas pessoas na mesa.
+
+O sistema deve:
+
+Validar que você está digitando número, em ambos os campos (total e quantidade de pessoas).
+O campo de total deve aceitar FLOAT, já o campo de pessoas deve aceitar apenas INTEIRO.
+O valor à dividir deve ser arredondado para ficar com no máximo 2 casas decimais.
+O design do sistema não tem tanta relevância, contudo a estruturação da interface deve-se prestar atenção.
